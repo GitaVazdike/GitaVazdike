@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/martinHeinz/master/wave.gif" width="30px">, my name is Gita Vazdiķe!
 
+---
+I am a Software Developer. Specializing in JAVA & Spring Boot, HTTP & Web API & Unit Testing.
+
+🌱 I’m currently learning
+🔭 I’m currently working on
+---
+
+🧰 Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50 /"> 
 <!--
 **GitaVazdike/GitaVazdike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
